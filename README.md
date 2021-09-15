@@ -20,8 +20,8 @@ you start the program ( python demo.py (on terminal) ) and input the url of the 
 Will show you some infos about the download process
 ![print2](/imgs/img2.png)
 
-And voila, you have the mp3 file on the same path that is your's demo.py :D
-note: ads free '-'
+And voila, you have the mp3 file on the same path that is your's demo.py :D  
+note: ads free '-'  
 ![print3](/imgs/img3.png)
 
 
